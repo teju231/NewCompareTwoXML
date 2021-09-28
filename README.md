@@ -1,3 +1,3 @@
 # NewCompareTwoXML
 
-Steps to execute
+Run provided java file 
